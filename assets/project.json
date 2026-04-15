@@ -18,7 +18,7 @@
                 ],
                 "^XeLT!!fTkOCsT$/-!CL": [
                     "playery",
-                    0
+                    -74
                 ],
                 "fVz+4tzmsgMM~MbX~`cM": [
                     "stars",
@@ -34,7 +34,7 @@
                 ],
                 "*I2*f@JUazzg5fPod-Ds": [
                     "move?",
-                    0
+                    "1"
                 ],
                 "utg$:-)#KH{fMd^UW7lc": [
                     "star bomb???",
@@ -917,7 +917,7 @@
                     "inputs": {},
                     "fields": {
                         "KEY_OPTION": [
-                            "home",
+                            "d",
                             "y]8Tj`K4R(obog.hf62?"
                         ]
                     },
@@ -3811,7 +3811,7 @@
             "layerOrder": 5,
             "visible": true,
             "x": -200,
-            "y": 0,
+            "y": -74,
             "size": 30,
             "direction": 90,
             "draggable": false,
@@ -6999,7 +6999,7 @@
             "layerOrder": 10,
             "visible": true,
             "x": -200,
-            "y": 0,
+            "y": -74,
             "size": 30,
             "direction": 90,
             "draggable": false,
@@ -8436,7 +8436,7 @@
             "variables": {
                 "f}HE=:hB8`Ah8]D9[rDd": [
                     "Camera Mode",
-                    0
+                    "1"
                 ]
             },
             "lists": {},
@@ -9702,8 +9702,8 @@
             "volume": 100,
             "layerOrder": 1,
             "visible": true,
-            "x": 0,
-            "y": 0,
+            "x": -200,
+            "y": -74,
             "size": 200,
             "direction": 90,
             "draggable": false,
@@ -16833,8 +16833,8 @@
             "volume": 100,
             "layerOrder": 3,
             "visible": true,
-            "x": 0,
-            "y": 0,
+            "x": -100,
+            "y": -37,
             "size": 100,
             "direction": 90,
             "draggable": false,
@@ -17101,8 +17101,8 @@
             "volume": 100,
             "layerOrder": 2,
             "visible": true,
-            "x": 0,
-            "y": 0,
+            "x": -133.33333333333334,
+            "y": -49.333333333333336,
             "size": 300,
             "direction": 90,
             "draggable": false,
